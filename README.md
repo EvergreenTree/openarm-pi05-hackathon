@@ -15,10 +15,10 @@ Pi05 adapters, and started a lighter full ACT fine-tune.
 
 ## Participants
 
-- Sichen Su (`SichenPa221`)
-- Ziqi Ma
-- Shangyu Yao
-- Changqing Fu (`EvergreenTree`)
+- Sichen Su ([SichenPa221](https://github.com/SichenPa221))
+- Ziqi Ma ([ZiqiLoveSunshine](https://github.com/ZiqiLoveSunshine))
+- Shangyu Yao ([ShangyuYAO](https://github.com/ShangyuYAO))
+- Changqing Fu ([EvergreenTree](https://github.com/EvergreenTree))
 
 ## System
 
