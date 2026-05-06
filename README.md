@@ -7,6 +7,12 @@ runs on a remote GPU server over WebSocket. During the hackathon we validated
 the inference loop, collected short OpenArm carrot-pick datasets, fine-tuned
 Pi05 adapters, and started a lighter full ACT fine-tune.
 
+## Demo
+
+<video src="./demo.mp4" controls width="100%"></video>
+
+[Watch the demo video](./demo.mp4)
+
 ## System
 
 - Robot: bimanual OpenArm follower.
