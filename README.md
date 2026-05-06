@@ -13,6 +13,13 @@ Pi05 adapters, and started a lighter full ACT fine-tune.
 
 [Watch the demo video](./demo.mp4)
 
+## Participants
+
+- Sichen Su (`SichenPa221`)
+- Ziqi Ma
+- Shangyu Yao
+- Changqing Fu (`EvergreenTree`)
+
 ## System
 
 - Robot: bimanual OpenArm follower.
