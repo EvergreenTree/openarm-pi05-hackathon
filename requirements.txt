@@ -1,0 +1,5 @@
+websockets
+opencv-python
+numpy
+torch
+lerobot[openarms,pi]==0.5.1
